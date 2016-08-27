@@ -1,1 +1,0 @@
-case class TD(f1: Date, f2: Date, ad: String)
